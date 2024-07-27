@@ -52,8 +52,8 @@ it. The VPN service then intercepts the packages for the servers and forwards
 any DNS queries that are not blacklisted.
 
 Custom upstream DNS can be configured. If the feature is turned off, the
-current connection's DNS servers are used. The app ships are pre-defined
-list of well known (mostly German) non-logging servers courtesy of the
+current connection's DNS servers are used. The app ships with pre-defined
+lists of well-known (mostly German) non-logging servers courtesy of the
 Chaos Computer Club.
 
 
